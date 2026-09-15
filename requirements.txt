@@ -3,4 +3,4 @@ pytesseract
 Pillow
 python-dotenv
 google-genai
-tavily-pythons
+tavily-python
