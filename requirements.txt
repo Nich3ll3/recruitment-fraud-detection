@@ -1,0 +1,10 @@
+streamlit
+pytesseract
+Pillow
+python-dotenv
+google-genai
+tavily-python
+tempCodeRunnerFile.py
+test_image.png
+test_ocr.py
+test_verifier.py
